@@ -26,3 +26,7 @@
 ## 0.1.1
 
 * apply main thread to customTag
+
+## 0.1.2
+
+* change podspec to auto resolve newest compatible gtm native library
